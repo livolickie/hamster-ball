@@ -1,3 +1,6 @@
+ --OVERGAME Studio | http://overgame-studio.ru/
+--Author: Livolickie | https://github.com/livolickie/
+--Discord: https://discord.gg/ER3DT29
  local gameplay = {}
 
 rainbowCol = {{255,0,0},{255,127,0},{127,255,0},{0,255,0},{0,255,127},{0,255,255},{0,127,255},{0,0,255},{127,0,255},{255,0,255},{255,0,127}}

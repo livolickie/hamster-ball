@@ -1,3 +1,6 @@
+--OVERGAME Studio | http://overgame-studio.ru/
+--Author: Livolickie | https://github.com/livolickie/
+--Discord: https://discord.gg/ER3DT29
 local utility = {}
 
 generalFont = love.graphics.newFont("resources/font/MBB.ttf",32)
